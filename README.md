@@ -1,6 +1,6 @@
 # File-System
 ### Project Summary:
-fs, native node module, used to read and log the contents of a file and thereafter used to copy the contents of the read file into another file.
+fs (native node module) used to read and log the contents of a file and thereafter used to copy the contents of the read file into another file.
 ### fs methods used:
 - .readFileSync();
 - .copyFileSync();
